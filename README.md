@@ -11,6 +11,7 @@ The first step involves segmenting the coronary arteries from primary medical im
 After extracting and cutting the coronary images, a data file is generated containing key pixel information, including:
 - Number of pixels within different intensity ranges (e.g., 100–130, 130–170, 170–200, etc.).
 - Sum of pixel values exceeding specific thresholds (e.g., >200, >150, etc.).
+- Number of plaques in this image
 
 This data is crucial for understanding the distribution of pixel intensities and identifying patterns related to plaques.
 
