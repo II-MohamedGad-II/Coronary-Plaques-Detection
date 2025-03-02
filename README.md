@@ -27,6 +27,23 @@ Based on the analysis, detection algorithms are built for:
 
 The developed models are capable of segmenting, analyzing, and detecting coronary plaques with improved accuracy.
 
+## Sample Images
+
+### 1. Primary Image
+This is the original medical image before any processing.
+
+![Primary Image](PrimaryImage.jpg)
+
+### 2. After Segmentation
+The coronary artery is segmented to remove noise and focus on the target region.
+
+![Segmented Image](AfterSegmentation.jpg)
+
+### 3. Detection Algorithm Output
+The final detection output highlighting the plaques.
+
+![Detection Output](FinalOutput.jpg)
+
 ## Dependencies
 Ensure the following Python libraries are installed before running the scripts:
 
