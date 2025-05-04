@@ -4,7 +4,7 @@ This notebook provides functionality for segmenting coronary plaques in medical 
 
 ## Features
 - **Load and preprocess medical images** from multiple categories (calcified, normal, mixed, soft).
-- **Train a UNET model** using TensorFlow and Keras for plaque segmentation.
+- **Train a UNET model** using TensorFlow and Keras for coronary segmentation.
 - **Apply early stopping** to optimize model performance.
 - **Visualize segmentation results** using Matplotlib.
 
